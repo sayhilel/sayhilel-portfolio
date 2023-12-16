@@ -1,9 +1,5 @@
-.main {
-  display: block;
-}
-
 .content {
-  margin-left: 200px;
-  padding: 1rem 1rem;
+  padding: 1rem 6rem;
   background-color: cornsilk;
+  margin-left: 100px;
 }
