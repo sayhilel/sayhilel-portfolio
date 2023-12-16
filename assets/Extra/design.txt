@@ -1,0 +1,6 @@
+Design goals portfolio:
+Contact button
+Latex resume integration // subject to change
+About me 
+Projects
+Single scrolling page
