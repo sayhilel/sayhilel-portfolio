@@ -1,8 +1,7 @@
 .pdf-container {
+  text-align: center;
   height: auto;
   width: auto;
-  display: grid;
-  grid-template-columns: 60% 40%;
   background-image: url("../images/L-PFP.png");
   background-size: cover; /* Cover the entire section with the image */
   background-position: center; /* Center the image within the section */
@@ -10,6 +9,6 @@
 }
 
 .pdf-container embed {
-  height: 800px;
-  width: 600px;
+  height: 100vh;
+  width: 100vh;
 }
