@@ -14,14 +14,18 @@
 }
 
 /* The navigation menu links */
-.sidebar a {
-  padding: 60px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
+.sidebar button {
+  display: block; /* Make buttons block elements to take full width */
+  width: 100%; /* Set button width to 100% of its container */
+  padding: 10px; /* Add padding for better visual appearance */
+  margin-bottom: 5px; /* Add margin between buttons */
+  background-color: #3498db; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none; /* Remove button border */
+  border-radius: 5px; /* Add border-radius for rounded corners */
+  cursor: pointer; /* Change cursor to pointer on hover */
 }
 
-.sidebar a:hover {
-  color: #f1f1f1;
+.sidebar button:hover {
+  background-color: #2980b9; /* Change background color on hover */
 }
