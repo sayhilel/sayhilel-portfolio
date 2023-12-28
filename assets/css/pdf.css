@@ -9,9 +9,13 @@
   border-radius: 10px; /* Add rounded corners */
 }
 
-.pdf-container embed {
+.pdf-container object {
   position: relative;
   height: 100vh;
   width: 100vh;
   margin-left: auto;
+}
+
+.pdf-container h2 {
+  color: aliceblue;
 }
