@@ -1,10 +1,12 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
 .content {
   padding: 1rem 6rem;
-  background-image: url("../images/TestBG.jpg");
-
-  background-size: cover; /* Cover the entire section with the image */
-  background-position: center; /* Center the image within the section */
-  background-repeat: repeat; /* Do not repeat the background image */
-  height: 200vh; /* Set the height of the section (100% of the viewport height) */
-  margin-left: 100px;
+  background-color: #020e1a;
+  margin-left: 80px;
 }
