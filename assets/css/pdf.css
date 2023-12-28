@@ -3,7 +3,10 @@
   width: auto;
   display: grid;
   grid-template-columns: 60% 40%;
-  background-color: lightgreen;
+  background-image: url("../images/L-PFP.png");
+  background-size: cover; /* Cover the entire section with the image */
+  background-position: center; /* Center the image within the section */
+  background-repeat: no-repeat; /* Do not repeat the background image */
 }
 
 .pdf-container embed {

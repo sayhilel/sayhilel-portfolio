@@ -1,5 +1,9 @@
 .about-me {
-  background-color: lightpink;
+  background-image: url("../images/PFP.png");
+  background-size: cover; /* Cover the entire section with the image */
+  background-position: center; /* Center the image within the section */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+  height: 50vh; /* Set the height of the section (100% of the viewport height) */
 }
 
 .about-me h2 {
