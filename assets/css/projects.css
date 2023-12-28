@@ -3,4 +3,5 @@
   width: auto;
 
   background-image: url("../images/TestA.jpg");
+  border-radius: 10px; /* Add rounded corners */
 }
